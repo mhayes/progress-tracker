@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="sass">
 @import '~bulma/sass/utilities/variables';
 @import "~progress-tracker/app/styles/_progress-tracker.scss";
 
