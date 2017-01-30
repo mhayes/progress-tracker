@@ -1,2 +1,2 @@
-export StepItem from './StepItem'
-export default from './Tracker'
+export StepItem from './StepItem.vue'
+export default from './Tracker.vue'
